@@ -5,3 +5,6 @@ coverage
 .DS_STORE
 .env
 tmp
+.env.example
+.env.test
+env.ts
